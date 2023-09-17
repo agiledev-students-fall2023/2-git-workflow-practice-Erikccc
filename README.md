@@ -5,7 +5,7 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 
 I recently came across this enlightening article on IBM Developer: [5 Steps of Test-Driven Development](https://developer.ibm.com/articles/5-steps-of-test-driven-development/).
 
-## Why This Article Stands Out
+## Main points
 
 Developing tests prior to developing actual code is a key component of the Test-Driven Development (TDD) process, which makes sure that product works as intended right away. TDD is broken down into five simple steps in the article from IBM Developer, making it an excellent resource for anyone wishing to learn more about it.
 
