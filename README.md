@@ -10,3 +10,6 @@ I recently came across this enlightening article on IBM Developer: [5 Steps of T
 Developing tests prior to developing actual code is a key component of the Test-Driven Development (TDD) process, which makes sure that product works as intended right away. TDD is broken down into five simple steps in the article from IBM Developer, making it an excellent resource for anyone wishing to learn more about it.
 
 The emphasis on refactoring in TDD is one element that struck a chord with me. Refactoring is the process of reorganizing current code without altering its behavior outside. The essay emphasizes how important this phase is in maintaining the code's clean, readable, and maintainable nature.
+
+## Comment by Jaden Wang
+I find this interesting because the article mentions that the TDD process is agile, cyclical, and iterative. At first glance I assumed the TDD process most likely have the opposite characteristics of an agile development process, but reading the article I realized the TDD workflow can actually be highly flexible. 
