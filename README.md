@@ -11,5 +11,13 @@ Developing tests prior to developing actual code is a key component of the Test-
 
 The emphasis on refactoring in TDD is one element that struck a chord with me. Refactoring is the process of reorganizing current code without altering its behavior outside. The essay emphasizes how important this phase is in maintaining the code's clean, readable, and maintainable nature.
 
+
 (Comment by Byron Chan)
 The article mentions that TDD is a reversal of the traditional development we know, which resonates with me. Implementing tests first ensures that they are not biased from the code itself, making it more reliable.
+=======
+
+## Comment by Jaden Wang
+I find this interesting because the article mentions that the TDD process is agile, cyclical, and iterative. At first glance I assumed the TDD process most likely have the opposite characteristics of an agile development process, but reading the article I realized the TDD workflow can actually be highly flexible. 
+=======
+## Comment - Terrance Chen
+I think that developing the tests first by fitting the code to the test is very intersting. However, in my opinion, there is a possibility that this takes much longer time especially in development environments where tight deadlines are crucial to the success of the team.
